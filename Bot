@@ -1,0 +1,8 @@
+{
+  "name": "Telemusic",
+  "version": "1.0.0",
+  "description": "New Music Bot for everyone",
+  "main": "bot.js",
+  "author": "Hamed",
+  "dependencies": {}
+}
